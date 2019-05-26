@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import "./App.css";
-import Outer from "./components/Outer";
 import Article from "./components/Article";
 
 
